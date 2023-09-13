@@ -1,0 +1,1176 @@
+2023-09-13 18:18:48,477 - sehatq_hasil - INFO - Post result..[D:\\DEV\\rspc_mcu\\hasil\\*.hl7]
+2023-09-13 18:20:26,223 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/*.hl7]
+2023-09-13 18:27:12,419 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/*.hl7]
+2023-09-13 18:27:30,049 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 18:27:30,049 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 18:27:30,049 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 18:27:30,049 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 18:27:30,049 - sehatq_hasil - INFO - MSH
+2023-09-13 18:27:30,049 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 18:27:30,049 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 18:27:30,049 - sehatq_hasil - INFO - PID
+2023-09-13 18:27:30,049 - sehatq_hasil - INFO - PID line.
+2023-09-13 18:27:30,049 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - PV1
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - ORC
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - OBR
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - Observations line.
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - TQ1
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - OBX
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - result
+2023-09-13 18:27:30,050 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 18:44:43,290 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 18:44:43,291 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 18:44:43,291 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 18:44:43,291 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 18:44:43,291 - sehatq_hasil - INFO - MSH
+2023-09-13 18:44:43,291 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 18:44:43,291 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - PID
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - PID line.
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - PV1
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - ORC
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - OBR
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - Observations line.
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 18:44:43,292 - sehatq_hasil - INFO - TQ1
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - OBX
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - result
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - 'dict' object is not callable
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - OBX
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - result
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] nilai_rujukan[0.270^4.200]
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - 'dict' object is not callable
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - 
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - ['']
+2023-09-13 18:44:43,293 - sehatq_hasil - INFO - 
+2023-09-13 18:44:43,294 - sehatq_hasil - INFO - no_order[] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 18:45:19,566 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 18:45:19,566 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 18:45:19,566 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 18:45:19,566 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 18:45:19,566 - sehatq_hasil - INFO - MSH
+2023-09-13 18:45:19,566 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 18:45:19,566 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 18:45:19,566 - sehatq_hasil - INFO - PID
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - PID line.
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - PV1
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - ORC
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - OBR
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - Observations line.
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - TQ1
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - OBX
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - result
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - 'dict' object is not callable
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - OBX
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - result
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] nilai_rujukan[0.270^4.200]
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - 'dict' object is not callable
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - 
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - ['']
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - 
+2023-09-13 18:45:19,567 - sehatq_hasil - INFO - no_order[] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - MSH
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - PID
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - PV1
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - ORC
+2023-09-13 19:00:10,819 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:00:10,820 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:00:10,820 - sehatq_hasil - INFO - OBR
+2023-09-13 19:00:10,820 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:00:10,820 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:00:10,820 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:00:10,820 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:00:10,820 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:00:10,820 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:00:10,820 - sehatq_hasil - INFO - OBX
+2023-09-13 19:00:10,820 - sehatq_hasil - INFO - result
+2023-09-13 19:00:10,820 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 19:00:10,834 - sehatq_hasil - INFO - column "ref_rang" of relation "results" does not exist
+LINE 1:  INSERT INTO results (test_name,test_code,unit,ref_rang,resu...
+                                                       ^
+
+2023-09-13 19:00:10,835 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:00:10,835 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:00:10,835 - sehatq_hasil - INFO - OBX
+2023-09-13 19:00:10,835 - sehatq_hasil - INFO - result
+2023-09-13 19:00:10,835 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] nilai_rujukan[0.270^4.200]
+2023-09-13 19:00:10,843 - sehatq_hasil - INFO - column "ref_rang" of relation "results" does not exist
+LINE 1:  INSERT INTO results (test_name,test_code,unit,ref_rang,resu...
+                                                       ^
+
+2023-09-13 19:00:10,844 - sehatq_hasil - INFO - 
+2023-09-13 19:00:10,844 - sehatq_hasil - INFO - ['']
+2023-09-13 19:00:10,844 - sehatq_hasil - INFO - 
+2023-09-13 19:00:10,844 - sehatq_hasil - INFO - no_order[] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - MSH
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - PID
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - PV1
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - ORC
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - OBR
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:00:47,230 - sehatq_hasil - INFO - OBX
+2023-09-13 19:00:47,231 - sehatq_hasil - INFO - result
+2023-09-13 19:00:47,231 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 19:00:47,249 - sehatq_hasil - INFO - no results to fetch
+2023-09-13 19:00:47,249 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:00:47,249 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:00:47,249 - sehatq_hasil - INFO - OBX
+2023-09-13 19:00:47,249 - sehatq_hasil - INFO - result
+2023-09-13 19:00:47,249 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] nilai_rujukan[0.270^4.200]
+2023-09-13 19:00:47,255 - sehatq_hasil - INFO - no results to fetch
+2023-09-13 19:00:47,256 - sehatq_hasil - INFO - 
+2023-09-13 19:00:47,256 - sehatq_hasil - INFO - ['']
+2023-09-13 19:00:47,256 - sehatq_hasil - INFO - 
+2023-09-13 19:00:47,256 - sehatq_hasil - INFO - no_order[] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - MSH
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - PID
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - PV1
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - ORC
+2023-09-13 19:02:02,044 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:02:02,045 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:02:02,045 - sehatq_hasil - INFO - OBR
+2023-09-13 19:02:02,045 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:02:02,045 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:02:02,045 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:02:02,045 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:02:02,045 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:02:02,045 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:02:02,045 - sehatq_hasil - INFO - OBX
+2023-09-13 19:02:02,045 - sehatq_hasil - INFO - result
+2023-09-13 19:02:02,045 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 19:02:02,054 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:02:02,054 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:02:02,054 - sehatq_hasil - INFO - OBX
+2023-09-13 19:02:02,054 - sehatq_hasil - INFO - result
+2023-09-13 19:02:02,054 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] nilai_rujukan[0.270^4.200]
+2023-09-13 19:02:02,063 - sehatq_hasil - INFO - 
+2023-09-13 19:02:02,063 - sehatq_hasil - INFO - ['']
+2023-09-13 19:02:02,063 - sehatq_hasil - INFO - 
+2023-09-13 19:02:02,063 - sehatq_hasil - INFO - no_order[] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:02:26,702 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:02:26,702 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:02:26,702 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:02:26,702 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:02:26,702 - sehatq_hasil - INFO - MSH
+2023-09-13 19:02:26,702 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:02:26,702 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:02:26,702 - sehatq_hasil - INFO - PID
+2023-09-13 19:02:26,702 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - PV1
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - ORC
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - OBR
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - OBX
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - result
+2023-09-13 19:02:26,703 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 19:02:26,717 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:02:26,717 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:02:26,717 - sehatq_hasil - INFO - OBX
+2023-09-13 19:02:26,717 - sehatq_hasil - INFO - result
+2023-09-13 19:02:26,717 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] nilai_rujukan[0.270^4.200]
+2023-09-13 19:02:26,732 - sehatq_hasil - INFO - 
+2023-09-13 19:02:26,732 - sehatq_hasil - INFO - ['']
+2023-09-13 19:02:26,732 - sehatq_hasil - INFO - 
+2023-09-13 19:02:26,732 - sehatq_hasil - INFO - no_order[] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:03:09,040 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - MSH
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - PID
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - PV1
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - ORC
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - OBR
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - OBX
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - result
+2023-09-13 19:03:09,041 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 19:03:09,059 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:03:09,059 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:03:09,059 - sehatq_hasil - INFO - OBX
+2023-09-13 19:03:09,059 - sehatq_hasil - INFO - result
+2023-09-13 19:03:09,059 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] nilai_rujukan[0.270^4.200]
+2023-09-13 19:03:09,069 - sehatq_hasil - INFO - 
+2023-09-13 19:03:09,069 - sehatq_hasil - INFO - ['']
+2023-09-13 19:03:09,069 - sehatq_hasil - INFO - 
+2023-09-13 19:03:09,069 - sehatq_hasil - INFO - no_order[] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:03:27,506 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - MSH
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - PID
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - PV1
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - ORC
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - OBR
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - OBX
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - result
+2023-09-13 19:03:27,507 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 19:03:27,526 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:03:27,526 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:03:27,526 - sehatq_hasil - INFO - OBX
+2023-09-13 19:03:27,526 - sehatq_hasil - INFO - result
+2023-09-13 19:03:27,527 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] nilai_rujukan[0.270^4.200]
+2023-09-13 19:03:27,537 - sehatq_hasil - INFO - 
+2023-09-13 19:03:27,538 - sehatq_hasil - INFO - ['']
+2023-09-13 19:03:27,538 - sehatq_hasil - INFO - 
+2023-09-13 19:03:27,538 - sehatq_hasil - INFO - no_order[] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:04:02,274 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:04:02,274 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - MSH
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - PID
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - PV1
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - ORC
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - OBR
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - OBX
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - result
+2023-09-13 19:04:02,275 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 19:04:02,284 - sehatq_hasil - INFO - syntax error at or near "Total"
+LINE 2:      VALUES (T4 Total,3419,unit,5.1^14.1,7.0,,) 
+                        ^
+
+2023-09-13 19:04:02,284 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:04:02,284 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:04:02,284 - sehatq_hasil - INFO - OBX
+2023-09-13 19:04:02,284 - sehatq_hasil - INFO - result
+2023-09-13 19:04:02,284 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] nilai_rujukan[0.270^4.200]
+2023-09-13 19:04:02,292 - sehatq_hasil - INFO - syntax error at or near ","
+LINE 2:      VALUES (TSHs,3420,unit,0.270^4.200,1.730,,) 
+                                                      ^
+
+2023-09-13 19:04:02,292 - sehatq_hasil - INFO - 
+2023-09-13 19:04:02,292 - sehatq_hasil - INFO - ['']
+2023-09-13 19:04:02,292 - sehatq_hasil - INFO - 
+2023-09-13 19:04:02,293 - sehatq_hasil - INFO - no_order[] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:05:06,495 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:05:06,495 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:05:06,495 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:05:06,495 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:05:06,495 - sehatq_hasil - INFO - MSH
+2023-09-13 19:05:06,495 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:05:06,495 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:05:06,495 - sehatq_hasil - INFO - PID
+2023-09-13 19:05:06,495 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:05:06,495 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:05:06,495 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:05:06,495 - sehatq_hasil - INFO - PV1
+2023-09-13 19:05:06,495 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:05:06,496 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:05:06,496 - sehatq_hasil - INFO - ORC
+2023-09-13 19:05:06,496 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:05:06,496 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:05:06,496 - sehatq_hasil - INFO - OBR
+2023-09-13 19:05:06,496 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:05:06,496 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:05:06,496 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:05:06,496 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:05:06,496 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:05:06,496 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:05:06,496 - sehatq_hasil - INFO - OBX
+2023-09-13 19:05:06,496 - sehatq_hasil - INFO - result
+2023-09-13 19:05:06,496 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 19:05:06,503 - sehatq_hasil - INFO -  INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES (T4 Total,3419,unit,5.1^14.1,7.0,,) 
+2023-09-13 19:05:06,504 - sehatq_hasil - INFO - syntax error at or near "Total"
+LINE 2:      VALUES (T4 Total,3419,unit,5.1^14.1,7.0,,) 
+                        ^
+
+2023-09-13 19:05:06,504 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:05:06,504 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:05:06,504 - sehatq_hasil - INFO - OBX
+2023-09-13 19:05:06,504 - sehatq_hasil - INFO - result
+2023-09-13 19:05:06,504 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] nilai_rujukan[0.270^4.200]
+2023-09-13 19:05:06,511 - sehatq_hasil - INFO -  INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES (TSHs,3420,unit,0.270^4.200,1.730,,) 
+2023-09-13 19:05:06,511 - sehatq_hasil - INFO - syntax error at or near ","
+LINE 2:      VALUES (TSHs,3420,unit,0.270^4.200,1.730,,) 
+                                                      ^
+
+2023-09-13 19:05:06,512 - sehatq_hasil - INFO - 
+2023-09-13 19:05:06,512 - sehatq_hasil - INFO - ['']
+2023-09-13 19:05:06,512 - sehatq_hasil - INFO - 
+2023-09-13 19:05:06,512 - sehatq_hasil - INFO - no_order[] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:06:10,362 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:06:10,362 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - MSH
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - PID
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - PV1
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - ORC
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - OBR
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - OBX
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - result
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 19:06:10,363 - sehatq_hasil - INFO -  INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES (T4 Total,3419,unit,5.1^14.1,7.0,,) 
+2023-09-13 19:06:10,370 - sehatq_hasil - INFO - not all arguments converted during string formatting
+2023-09-13 19:06:10,371 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:06:10,371 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:06:10,371 - sehatq_hasil - INFO - OBX
+2023-09-13 19:06:10,371 - sehatq_hasil - INFO - result
+2023-09-13 19:06:10,371 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] nilai_rujukan[0.270^4.200]
+2023-09-13 19:06:10,371 - sehatq_hasil - INFO -  INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES (TSHs,3420,unit,0.270^4.200,1.730,,) 
+2023-09-13 19:06:10,377 - sehatq_hasil - INFO - not all arguments converted during string formatting
+2023-09-13 19:06:10,378 - sehatq_hasil - INFO - 
+2023-09-13 19:06:10,378 - sehatq_hasil - INFO - ['']
+2023-09-13 19:06:10,378 - sehatq_hasil - INFO - 
+2023-09-13 19:06:10,378 - sehatq_hasil - INFO - no_order[] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:06:36,268 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:06:36,268 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:06:36,268 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - MSH
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - PID
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - PV1
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - ORC
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - OBR
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - OBX
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - result
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 19:06:36,269 - sehatq_hasil - INFO -  INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','unit','5.1^14.1','7.0','','') 
+2023-09-13 19:06:36,277 - sehatq_hasil - INFO - not all arguments converted during string formatting
+2023-09-13 19:06:36,277 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:06:36,277 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:06:36,277 - sehatq_hasil - INFO - OBX
+2023-09-13 19:06:36,277 - sehatq_hasil - INFO - result
+2023-09-13 19:06:36,278 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] nilai_rujukan[0.270^4.200]
+2023-09-13 19:06:36,278 - sehatq_hasil - INFO -  INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','unit','0.270^4.200','1.730','','') 
+2023-09-13 19:06:36,284 - sehatq_hasil - INFO - not all arguments converted during string formatting
+2023-09-13 19:06:36,284 - sehatq_hasil - INFO - 
+2023-09-13 19:06:36,284 - sehatq_hasil - INFO - ['']
+2023-09-13 19:06:36,284 - sehatq_hasil - INFO - 
+2023-09-13 19:06:36,284 - sehatq_hasil - INFO - no_order[] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:07:05,169 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:07:05,169 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - MSH
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - PID
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - PV1
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - ORC
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - OBR
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - OBX
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - result
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 19:07:05,170 - sehatq_hasil - INFO -  INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','unit','5.1^14.1','7.0','','') 
+2023-09-13 19:07:05,186 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:07:05,186 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:07:05,186 - sehatq_hasil - INFO - OBX
+2023-09-13 19:07:05,186 - sehatq_hasil - INFO - result
+2023-09-13 19:07:05,187 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] nilai_rujukan[0.270^4.200]
+2023-09-13 19:07:05,187 - sehatq_hasil - INFO -  INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','unit','0.270^4.200','1.730','','') 
+2023-09-13 19:07:05,197 - sehatq_hasil - INFO - 
+2023-09-13 19:07:05,198 - sehatq_hasil - INFO - ['']
+2023-09-13 19:07:05,198 - sehatq_hasil - INFO - 
+2023-09-13 19:07:05,198 - sehatq_hasil - INFO - no_order[] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:08:16,410 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:08:16,410 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:08:16,410 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:08:16,410 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:08:16,410 - sehatq_hasil - INFO - MSH
+2023-09-13 19:08:16,410 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:08:16,410 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - PID
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - PV1
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - ORC
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - OBR
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - OBX
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - result
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] nilai_rujukan[5.1^14.1]
+2023-09-13 19:08:16,411 - sehatq_hasil - INFO -  INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','unit','5.1^14.1','7.0','','199691') 
+2023-09-13 19:08:16,428 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:08:16,428 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:08:16,428 - sehatq_hasil - INFO - OBX
+2023-09-13 19:08:16,428 - sehatq_hasil - INFO - result
+2023-09-13 19:08:16,428 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] nilai_rujukan[0.270^4.200]
+2023-09-13 19:08:16,428 - sehatq_hasil - INFO -  INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','unit','0.270^4.200','1.730','','199691') 
+2023-09-13 19:08:16,438 - sehatq_hasil - INFO - 
+2023-09-13 19:08:16,438 - sehatq_hasil - INFO - ['']
+2023-09-13 19:08:16,438 - sehatq_hasil - INFO - 
+2023-09-13 19:08:16,438 - sehatq_hasil - INFO - no_order[199691] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:10:02,124 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:10:02,124 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:10:02,124 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - MSH
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - PID
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - PV1
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - ORC
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - OBR
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - OBX
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - result
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] satuan[^µg/dL] nilai_rujukan[5.1^14.1]
+2023-09-13 19:10:02,125 - sehatq_hasil - INFO -  INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','^µg/dL','5.1^14.1','7.0','','199691') 
+2023-09-13 19:10:02,143 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:10:02,143 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:10:02,143 - sehatq_hasil - INFO - OBX
+2023-09-13 19:10:02,143 - sehatq_hasil - INFO - result
+2023-09-13 19:10:02,143 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] satuan[^µlU/mL] nilai_rujukan[0.270^4.200]
+2023-09-13 19:10:02,143 - sehatq_hasil - INFO -  INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','^µlU/mL','0.270^4.200','1.730','','199691') 
+2023-09-13 19:10:02,152 - sehatq_hasil - INFO - 
+2023-09-13 19:10:02,153 - sehatq_hasil - INFO - ['']
+2023-09-13 19:10:02,153 - sehatq_hasil - INFO - 
+2023-09-13 19:10:02,153 - sehatq_hasil - INFO - no_order[199691] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - MSH
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - PID
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - PV1
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - ORC
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - OBR
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:12:23,170 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:12:23,171 - sehatq_hasil - INFO - OBX
+2023-09-13 19:12:23,171 - sehatq_hasil - INFO - result
+2023-09-13 19:12:23,171 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] satuan[^µg/dL] nilai_rujukan[5.1^14.1]
+2023-09-13 19:12:23,171 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','^µg/dL','5.1^14.1','7.0','','199691') 
+2023-09-13 19:12:23,178 - sehatq_hasil - INFO - relation "result" does not exist
+LINE 1: DELETE FROM result WHERE test_code = '3419' AND order_id = '...
+                    ^
+
+2023-09-13 19:12:23,178 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:12:23,178 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:12:23,178 - sehatq_hasil - INFO - OBX
+2023-09-13 19:12:23,178 - sehatq_hasil - INFO - result
+2023-09-13 19:12:23,178 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] satuan[^µlU/mL] nilai_rujukan[0.270^4.200]
+2023-09-13 19:12:23,178 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','^µlU/mL','0.270^4.200','1.730','','199691') 
+2023-09-13 19:12:23,186 - sehatq_hasil - INFO - relation "result" does not exist
+LINE 1: DELETE FROM result WHERE test_code = '3420' AND order_id = '...
+                    ^
+
+2023-09-13 19:12:23,186 - sehatq_hasil - INFO - 
+2023-09-13 19:12:23,186 - sehatq_hasil - INFO - ['']
+2023-09-13 19:12:23,186 - sehatq_hasil - INFO - 
+2023-09-13 19:12:23,186 - sehatq_hasil - INFO - no_order[199691] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:12:49,975 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:12:49,975 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - MSH
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - PID
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - PV1
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - ORC
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - OBR
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - OBX
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - result
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] satuan[^µg/dL] nilai_rujukan[5.1^14.1]
+2023-09-13 19:12:49,976 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','^µg/dL','5.1^14.1','7.0','','199691') 
+2023-09-13 19:12:49,985 - sehatq_hasil - INFO - relation "result" does not exist
+LINE 1: DELETE FROM result WHERE test_code = '3419' AND order_id = '...
+                    ^
+
+2023-09-13 19:12:49,986 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:12:49,986 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:12:49,986 - sehatq_hasil - INFO - OBX
+2023-09-13 19:12:49,986 - sehatq_hasil - INFO - result
+2023-09-13 19:12:49,986 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] satuan[^µlU/mL] nilai_rujukan[0.270^4.200]
+2023-09-13 19:12:49,986 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','^µlU/mL','0.270^4.200','1.730','','199691') 
+2023-09-13 19:12:49,994 - sehatq_hasil - INFO - relation "result" does not exist
+LINE 1: DELETE FROM result WHERE test_code = '3420' AND order_id = '...
+                    ^
+
+2023-09-13 19:12:49,994 - sehatq_hasil - INFO - 
+2023-09-13 19:12:49,994 - sehatq_hasil - INFO - ['']
+2023-09-13 19:12:49,994 - sehatq_hasil - INFO - 
+2023-09-13 19:12:49,994 - sehatq_hasil - INFO - no_order[199691] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:13:58,466 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:13:58,466 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:13:58,466 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:13:58,466 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:13:58,466 - sehatq_hasil - INFO - MSH
+2023-09-13 19:13:58,466 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:13:58,466 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:13:58,466 - sehatq_hasil - INFO - PID
+2023-09-13 19:13:58,466 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - PV1
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - ORC
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - OBR
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - OBX
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - result
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] satuan[^µg/dL] nilai_rujukan[5.1^14.1]
+2023-09-13 19:13:58,467 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','^µg/dL','5.1^14.1','7.0','','199691') 
+2023-09-13 19:13:58,474 - sehatq_hasil - INFO - DELETE FROM result WHERE test_code = '3419' AND order_id = '199691'
+2023-09-13 19:13:58,474 - sehatq_hasil - INFO - relation "result" does not exist
+LINE 1: DELETE FROM result WHERE test_code = '3419' AND order_id = '...
+                    ^
+
+2023-09-13 19:13:58,474 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:13:58,475 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:13:58,475 - sehatq_hasil - INFO - OBX
+2023-09-13 19:13:58,475 - sehatq_hasil - INFO - result
+2023-09-13 19:13:58,475 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] satuan[^µlU/mL] nilai_rujukan[0.270^4.200]
+2023-09-13 19:13:58,475 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','^µlU/mL','0.270^4.200','1.730','','199691') 
+2023-09-13 19:13:58,481 - sehatq_hasil - INFO - DELETE FROM result WHERE test_code = '3420' AND order_id = '199691'
+2023-09-13 19:13:58,481 - sehatq_hasil - INFO - relation "result" does not exist
+LINE 1: DELETE FROM result WHERE test_code = '3420' AND order_id = '...
+                    ^
+
+2023-09-13 19:13:58,481 - sehatq_hasil - INFO - 
+2023-09-13 19:13:58,481 - sehatq_hasil - INFO - ['']
+2023-09-13 19:13:58,481 - sehatq_hasil - INFO - 
+2023-09-13 19:13:58,482 - sehatq_hasil - INFO - no_order[199691] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - MSH
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - PID
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - PV1
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - ORC
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - OBR
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:14:20,084 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:14:20,085 - sehatq_hasil - INFO - OBX
+2023-09-13 19:14:20,085 - sehatq_hasil - INFO - result
+2023-09-13 19:14:20,085 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] satuan[^µg/dL] nilai_rujukan[5.1^14.1]
+2023-09-13 19:14:20,085 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','^µg/dL','5.1^14.1','7.0','','199691') 
+2023-09-13 19:14:20,093 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3419' AND order_id = '199691'
+2023-09-13 19:14:20,105 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:14:20,105 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:14:20,105 - sehatq_hasil - INFO - OBX
+2023-09-13 19:14:20,105 - sehatq_hasil - INFO - result
+2023-09-13 19:14:20,105 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] satuan[^µlU/mL] nilai_rujukan[0.270^4.200]
+2023-09-13 19:14:20,105 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','^µlU/mL','0.270^4.200','1.730','','199691') 
+2023-09-13 19:14:20,115 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3420' AND order_id = '199691'
+2023-09-13 19:14:20,119 - sehatq_hasil - INFO - 
+2023-09-13 19:14:20,119 - sehatq_hasil - INFO - ['']
+2023-09-13 19:14:20,119 - sehatq_hasil - INFO - 
+2023-09-13 19:14:20,120 - sehatq_hasil - INFO - no_order[199691] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - MSH
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - PID
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - PV1
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - ORC
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - OBR
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:14:48,913 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:14:48,914 - sehatq_hasil - INFO - OBX
+2023-09-13 19:14:48,914 - sehatq_hasil - INFO - result
+2023-09-13 19:14:48,914 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] satuan[^µg/dL] nilai_rujukan[5.1^14.1]
+2023-09-13 19:14:48,922 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3419' AND order_id = '199691'
+2023-09-13 19:14:48,925 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','^µg/dL','5.1^14.1','7.0','','199691') 
+2023-09-13 19:14:48,927 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:14:48,927 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:14:48,927 - sehatq_hasil - INFO - OBX
+2023-09-13 19:14:48,927 - sehatq_hasil - INFO - result
+2023-09-13 19:14:48,927 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] satuan[^µlU/mL] nilai_rujukan[0.270^4.200]
+2023-09-13 19:14:48,933 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3420' AND order_id = '199691'
+2023-09-13 19:14:48,936 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','^µlU/mL','0.270^4.200','1.730','','199691') 
+2023-09-13 19:14:48,937 - sehatq_hasil - INFO - 
+2023-09-13 19:14:48,937 - sehatq_hasil - INFO - ['']
+2023-09-13 19:14:48,937 - sehatq_hasil - INFO - 
+2023-09-13 19:14:48,937 - sehatq_hasil - INFO - no_order[199691] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:16:05,718 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:16:05,718 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:16:05,718 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:16:05,718 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:16:05,718 - sehatq_hasil - INFO - MSH
+2023-09-13 19:16:05,718 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:16:05,718 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:16:05,718 - sehatq_hasil - INFO - PID
+2023-09-13 19:16:05,718 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - PV1
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - ORC
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - OBR
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - OBX
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - result
+2023-09-13 19:16:05,719 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] satuan[^µg/dL] nilai_rujukan[5.1^14.1]
+2023-09-13 19:16:05,727 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3419' AND order_id = '199691'
+2023-09-13 19:16:05,737 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','^µg/dL','5.1^14.1','7.0','','199691') 
+2023-09-13 19:16:05,739 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:16:05,739 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:16:05,739 - sehatq_hasil - INFO - OBX
+2023-09-13 19:16:05,739 - sehatq_hasil - INFO - result
+2023-09-13 19:16:05,739 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] satuan[^µlU/mL] nilai_rujukan[0.270^4.200]
+2023-09-13 19:16:05,746 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3420' AND order_id = '199691'
+2023-09-13 19:16:05,749 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','^µlU/mL','0.270^4.200','1.730','','199691') 
+2023-09-13 19:16:05,750 - sehatq_hasil - INFO - 
+2023-09-13 19:16:05,750 - sehatq_hasil - INFO - ['']
+2023-09-13 19:16:05,750 - sehatq_hasil - INFO - 
+2023-09-13 19:16:05,750 - sehatq_hasil - INFO - no_order[199691] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:18:20,094 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:18:20,094 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:18:20,094 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:18:20,094 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - MSH
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - PID
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - PV1
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - ORC
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - OBR
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - OBX
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - result
+2023-09-13 19:18:20,095 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] satuan[^µg/dL] nilai_rujukan[5.1^14.1]
+2023-09-13 19:18:20,102 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3419' AND order_id = '199691'
+2023-09-13 19:18:20,105 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','^µg/dL','5.1^14.1','7.0','','199691') 
+2023-09-13 19:18:20,107 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:18:20,107 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:18:20,107 - sehatq_hasil - INFO - OBX
+2023-09-13 19:18:20,107 - sehatq_hasil - INFO - result
+2023-09-13 19:18:20,107 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] satuan[^µlU/mL] nilai_rujukan[0.270^4.200]
+2023-09-13 19:18:20,114 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3420' AND order_id = '199691'
+2023-09-13 19:18:20,116 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','^µlU/mL','0.270^4.200','1.730','','199691') 
+2023-09-13 19:18:20,118 - sehatq_hasil - INFO - 
+2023-09-13 19:18:20,118 - sehatq_hasil - INFO - ['']
+2023-09-13 19:18:20,118 - sehatq_hasil - INFO - 
+2023-09-13 19:18:20,118 - sehatq_hasil - INFO - no_order[199691] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - MSH
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - PID
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - PV1
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - ORC
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - OBR
+2023-09-13 19:18:52,374 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:18:52,375 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:18:52,375 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:18:52,375 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:18:52,375 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:18:52,375 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:18:52,375 - sehatq_hasil - INFO - OBX
+2023-09-13 19:18:52,375 - sehatq_hasil - INFO - result
+2023-09-13 19:18:52,375 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] satuan[^µg/dL] nilai_rujukan[5.1^14.1]
+2023-09-13 19:18:52,382 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3419' AND order_id = '199691'
+2023-09-13 19:18:52,392 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','^µg/dL','5.1^14.1','7.0','','199691') 
+2023-09-13 19:18:52,394 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:18:52,394 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:18:52,394 - sehatq_hasil - INFO - OBX
+2023-09-13 19:18:52,394 - sehatq_hasil - INFO - result
+2023-09-13 19:18:52,394 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] satuan[^µlU/mL] nilai_rujukan[0.270^4.200]
+2023-09-13 19:18:52,400 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3420' AND order_id = '199691'
+2023-09-13 19:18:52,403 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','^µlU/mL','0.270^4.200','1.730','','199691') 
+2023-09-13 19:18:52,404 - sehatq_hasil - INFO - 
+2023-09-13 19:18:52,405 - sehatq_hasil - INFO - ['']
+2023-09-13 19:18:52,405 - sehatq_hasil - INFO - 
+2023-09-13 19:18:52,405 - sehatq_hasil - INFO - no_order[199691] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:20:03,671 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - MSH
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - PID
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - PV1
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - ORC
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - OBR
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - OBX
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - result
+2023-09-13 19:20:03,672 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] satuan[^µg/dL] nilai_rujukan[5.1]
+2023-09-13 19:20:03,678 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3419' AND order_id = '199691'
+2023-09-13 19:20:03,689 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','^µg/dL','5.1','7.0','','199691') 
+2023-09-13 19:20:03,691 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:20:03,691 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:20:03,691 - sehatq_hasil - INFO - OBX
+2023-09-13 19:20:03,691 - sehatq_hasil - INFO - result
+2023-09-13 19:20:03,691 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] satuan[^µlU/mL] nilai_rujukan[0.270]
+2023-09-13 19:20:03,697 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3420' AND order_id = '199691'
+2023-09-13 19:20:03,699 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','^µlU/mL','0.270','1.730','','199691') 
+2023-09-13 19:20:03,701 - sehatq_hasil - INFO - 
+2023-09-13 19:20:03,701 - sehatq_hasil - INFO - ['']
+2023-09-13 19:20:03,701 - sehatq_hasil - INFO - 
+2023-09-13 19:20:03,701 - sehatq_hasil - INFO - no_order[199691] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - MSH
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - PID
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - PV1
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:20:34,763 - sehatq_hasil - INFO - ORC
+2023-09-13 19:20:34,764 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:20:34,764 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:20:34,764 - sehatq_hasil - INFO - OBR
+2023-09-13 19:20:34,764 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:20:34,764 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:20:34,764 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:20:34,764 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:20:34,764 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:20:34,764 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:20:34,764 - sehatq_hasil - INFO - OBX
+2023-09-13 19:20:34,764 - sehatq_hasil - INFO - result
+2023-09-13 19:20:34,764 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] satuan[^µg/dL] nilai_rujukan[5.1]
+2023-09-13 19:20:34,773 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3419' AND order_id = '199691'
+2023-09-13 19:20:34,774 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','^µg/dL','5.1','7.0','','199691') 
+2023-09-13 19:20:34,775 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:20:34,776 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:20:34,776 - sehatq_hasil - INFO - OBX
+2023-09-13 19:20:34,776 - sehatq_hasil - INFO - result
+2023-09-13 19:20:34,776 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] satuan[^µlU/mL] nilai_rujukan[0.270]
+2023-09-13 19:20:34,784 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3420' AND order_id = '199691'
+2023-09-13 19:20:34,785 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','^µlU/mL','0.270','1.730','','199691') 
+2023-09-13 19:20:34,787 - sehatq_hasil - INFO - 
+2023-09-13 19:20:34,787 - sehatq_hasil - INFO - ['']
+2023-09-13 19:20:34,787 - sehatq_hasil - INFO - 
+2023-09-13 19:20:34,787 - sehatq_hasil - INFO - no_order[199691] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:21:48,769 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - MSH
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - PID
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - PV1
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - ORC
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - OBR
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - OBX
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - result
+2023-09-13 19:21:48,770 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] satuan[µg/dL] nilai_rujukan[5.1]
+2023-09-13 19:21:48,777 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3419' AND order_id = '199691'
+2023-09-13 19:21:48,787 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','µg/dL','5.1','7.0','','199691') 
+2023-09-13 19:21:48,789 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:21:48,789 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:21:48,789 - sehatq_hasil - INFO - OBX
+2023-09-13 19:21:48,789 - sehatq_hasil - INFO - result
+2023-09-13 19:21:48,789 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] satuan[µlU/mL] nilai_rujukan[0.270]
+2023-09-13 19:21:48,797 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3420' AND order_id = '199691'
+2023-09-13 19:21:48,800 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','µlU/mL','0.270','1.730','','199691') 
+2023-09-13 19:21:48,802 - sehatq_hasil - INFO - 
+2023-09-13 19:21:48,802 - sehatq_hasil - INFO - ['']
+2023-09-13 19:21:48,802 - sehatq_hasil - INFO - 
+2023-09-13 19:21:48,802 - sehatq_hasil - INFO - no_order[199691] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
+2023-09-13 19:24:44,715 - sehatq_hasil - INFO - Post result..[/home/yoserizy/Documents/GitHub/sehatq/HL7/*.hl7]
+2023-09-13 19:24:44,715 - sehatq_hasil - INFO - /home/yoserizy/Documents/GitHub/sehatq/HL7/hasil.hl7
+2023-09-13 19:24:44,715 - sehatq_hasil - INFO - MSH|^~\&|cobas infinity 3.02.06|Roche Diagnostics|Receiver Application|Receiver Facility|20230912221839||ORU^R01|AC629841-4AEA-421C-AF72-6AD03847F065|P|2.5|||AL|ER
+2023-09-13 19:24:44,715 - sehatq_hasil - INFO - ['MSH', '^~\\&', 'cobas infinity 3.02.06', 'Roche Diagnostics', 'Receiver Application', 'Receiver Facility', '20230912221839', '', 'ORU^R01', 'AC629841-4AEA-421C-AF72-6AD03847F065', 'P', '2.5', '', '', 'AL', 'ER']
+2023-09-13 19:24:44,715 - sehatq_hasil - INFO - MSH
+2023-09-13 19:24:44,715 - sehatq_hasil - INFO - PID|1||23018157||META ERIKKA||19911106|F|||AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH|||8112326396
+2023-09-13 19:24:44,715 - sehatq_hasil - INFO - ['PID', '1', '', '23018157', '', 'META ERIKKA', '', '19911106', 'F', '', '', 'AYU TENGAHKOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH^^KOMP KOPO PREMIUM REGENCY 8-2 RT/RW 006/016 MARGAH', '', '', '8112326396']
+2023-09-13 19:24:44,715 - sehatq_hasil - INFO - PID
+2023-09-13 19:24:44,715 - sehatq_hasil - INFO - PID line.
+2023-09-13 19:24:44,715 - sehatq_hasil - INFO - PV1|1|U|||||||||||||||||^^^OUTPATIENT CLINICS
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - ['PV1', '1', 'U', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '^^^OUTPATIENT CLINICS']
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - PV1
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - ORC|SC||199691||199691||||20230912194500|||SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH|^OUTPATIENT CLINICS^OUTPATIENT CLINICS|OUTPATIENT CLINICS^SELF PAYOR
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - ['ORC', 'SC', '', '199691', '', '199691', '', '', '', '20230912194500', '', '', 'SPEGAST001^dr. Epistel Pangujian Simatupang, Sp.PD-KGEH', '^OUTPATIENT CLINICS^OUTPATIENT CLINICS', 'OUTPATIENT CLINICS^SELF PAYOR']
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - ORC
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - OBR|1||199691||||||||||||||||||||||A
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - ['OBR', '1', '', '199691', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'A']
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - OBR
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - Observations line.
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - TQ1|1||||||||R^R
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - ['TQ1', '1', '', '', '', '', '', '', '', 'R^R']
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - TQ1
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - OBX|1|NM|3419^T4 Total||7.0|^µg/dL|5.1^14.1||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - ['OBX', '1', 'NM', '3419^T4 Total', '', '7.0', '^µg/dL', '5.1^14.1', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - OBX
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - result
+2023-09-13 19:24:44,716 - sehatq_hasil - INFO - kode_tes_item[3419] nama_tes[T4 Total] abbr[] hasil[7.0] satuan[µg/dL] nilai_rujukan[5.1 - 14.1]
+2023-09-13 19:24:44,722 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3419' AND order_id = '199691'
+2023-09-13 19:24:44,725 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('T4 Total','3419','µg/dL','5.1 - 14.1','7.0','','199691') 
+2023-09-13 19:24:44,726 - sehatq_hasil - INFO - OBX|2|NM|3420^TSHs||1.730|^µlU/mL|0.270^4.200||||F|||20230912211129||JIWAN^Arif Jiwandono
+2023-09-13 19:24:44,726 - sehatq_hasil - INFO - ['OBX', '2', 'NM', '3420^TSHs', '', '1.730', '^µlU/mL', '0.270^4.200', '', '', '', 'F', '', '', '20230912211129', '', 'JIWAN^Arif Jiwandono']
+2023-09-13 19:24:44,726 - sehatq_hasil - INFO - OBX
+2023-09-13 19:24:44,726 - sehatq_hasil - INFO - result
+2023-09-13 19:24:44,726 - sehatq_hasil - INFO - kode_tes_item[3420] nama_tes[TSHs] abbr[] hasil[1.730] satuan[µlU/mL] nilai_rujukan[0.270 - 4.200]
+2023-09-13 19:24:44,733 - sehatq_hasil - INFO - DELETE FROM results WHERE test_code = '3420' AND order_id = '199691'
+2023-09-13 19:24:44,736 - sehatq_hasil - INFO -  
+    INSERT INTO results (test_name,test_code,unit,ref_range,result,flag,order_id)
+     VALUES ('TSHs','3420','µlU/mL','0.270 - 4.200','1.730','','199691') 
+2023-09-13 19:24:44,737 - sehatq_hasil - INFO - 
+2023-09-13 19:24:44,738 - sehatq_hasil - INFO - ['']
+2023-09-13 19:24:44,738 - sehatq_hasil - INFO - 
+2023-09-13 19:24:44,738 - sehatq_hasil - INFO - no_order[199691] tanggal_mcu[] no_mr[23018157] nama[META ERIKKA]
